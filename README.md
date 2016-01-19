@@ -1,4 +1,4 @@
-# Steam Key Value
+# Steam Key Value library
 This is a C# library with key value class originating from [SteamKit](https://github.com/SteamRE/SteamKit) by Ryan Stecker & SteamRE Team.
 Library gives ability to read more exotic type of key value files - Steam resource files.
 ### [Download compiled library here](https://github.com/Lexuzieel/SteamKeyValue/blob/master/compiled/SteamKeyValue.dll)
