@@ -22,6 +22,6 @@ file
 Enhanced indexers:
   kv["section"]["key", 1].Value // value2
   kv["section"]["key", 0].Value = kv["section"]["key"].Value // value1
-Conditional reading:
+Conditionals reading:
   kv["case"].Condition // [$OSX]
 ```
